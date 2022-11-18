@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Alata', sans-serif;
+}
+
+body {
+    background-color: #F6F8FC;
+}
+
+header {
+    width: 100vw;
+    height: 2.5rem;
+    background-color: #9999ff;
+}
+
+.content h1 {
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.content {    
+    height: 100vh;
+    width: 100vw;
+    padding: 1rem;
+    background-color: #FFF;
+}
+
+@media screen and (min-width: 992px) {
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
+
