@@ -4,7 +4,7 @@
 
 ### 👩🏻‍💻 Projeto
 
-<strong>Pokedex</strong> desenvolvido durante o Bootcamp Orange Tech + da DIO. Nele foram:
+<strong>Pokedex</strong> desenvolvida durante o Bootcamp Orange Tech + da DIO. Nele foram:
 
 - utilizados funções JavaScript,
 - feitas as configurações necessárias para consumo de API e
